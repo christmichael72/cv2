@@ -1,0 +1,66 @@
+body {
+  text-align: center;
+  background-attachment: fixed;
+  background-color: #0c7b93;
+  font-family: Garamond, serif;
+}
+
+#HS{
+  text-align: left;
+  background-attachment: fixed;
+  background-color: #0c7b93;
+  font-family: lucida,Sans-Serif;
+}
+
+#f1 {
+  object-fit: cover;
+  height: 150px;
+  width: 150px;
+}
+
+.topMenu{
+  text-align: right;
+  font-family: lucida,Sans-Serif;
+}
+
+h1 {
+  color: #142850;
+  font-family: "Consolas", monospace;
+}
+
+h3 {
+  color: #142850;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.NC {
+  text-align: left;
+}
+
+.NB {
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th,
+td {
+  text-align: center;
+  padding: 8px;
+  border-bottom: 1px solid grey;
+}
+tr:hover {background-color: grey;}
